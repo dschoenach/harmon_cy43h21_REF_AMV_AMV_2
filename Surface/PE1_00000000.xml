@@ -1,0 +1,5516 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20201204-20201212</PERIOD>
+ <STATION>
+ <MEAN_OBS>   6.90228716E-02 </MEAN_OBS>
+ <STDV_OBS>   7.20098615E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>REF</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   1.28438454E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.220819697     </BIAS>
+ <RMSE>  0.204066992     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>polar</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.221005127     </BIAS>
+ <RMSE>  0.201023996     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.220965520     </BIAS>
+ <RMSE>  0.200885355     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.12678947E-02 </MEAN_OBS>
+ <STDV_OBS>  0.304114193     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   5.18751889E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.313151002     </BIAS>
+ <RMSE>  0.171616107     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.312803328     </BIAS>
+ <RMSE>  0.170481101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.310577601     </BIAS>
+ <RMSE>  0.171239629     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.31707469E-02 </MEAN_OBS>
+ <STDV_OBS>   8.24742392E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   3.87592539E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   6.67532384E-02 </BIAS>
+ <RMSE>  0.593684852     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.79961145E-02 </BIAS>
+ <RMSE>  0.589439213     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   6.74308836E-02 </BIAS>
+ <RMSE>  0.598354280     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.79260855E-02 </MEAN_OBS>
+ <STDV_OBS>  0.151776358     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>REF</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   7.93190002E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.126705661     </BIAS>
+ <RMSE>  0.550065041     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>polar</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125103071     </BIAS>
+ <RMSE>  0.547462285     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.126593381     </BIAS>
+ <RMSE>  0.550453544     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.23169649E-02 </MEAN_OBS>
+ <STDV_OBS>  0.204771161     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.147085160     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.186719939     </BIAS>
+ <RMSE>  0.550091684     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.183516636     </BIAS>
+ <RMSE>  0.556199610     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.185725361     </BIAS>
+ <RMSE>  0.553918481     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.61316717E-02 </MEAN_OBS>
+ <STDV_OBS>  0.187223792     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.124956578     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.122381315     </BIAS>
+ <RMSE>  0.758704841     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.120118439     </BIAS>
+ <RMSE>  0.762706697     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.121703357     </BIAS>
+ <RMSE>  0.761756539     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.70782253E-02 </MEAN_OBS>
+ <STDV_OBS>  0.159546927     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.121802643     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.148595914     </BIAS>
+ <RMSE>  0.510608196     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144975290     </BIAS>
+ <RMSE>  0.522053659     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.146575868     </BIAS>
+ <RMSE>  0.515235364     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.80247454E-02 </MEAN_OBS>
+ <STDV_OBS>  0.167378187     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.125852302     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.138297319     </BIAS>
+ <RMSE>  0.583869040     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.138218358     </BIAS>
+ <RMSE>  0.579354763     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.137862235     </BIAS>
+ <RMSE>  0.580810249     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.202702925     </MEAN_OBS>
+ <STDV_OBS>  0.215161458     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>  0.312076271     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.229581550     </BIAS>
+ <RMSE>  0.241414487     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>polar</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.229168713     </BIAS>
+ <RMSE>  0.221706927     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.229519382     </BIAS>
+ <RMSE>  0.220749050     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.238271594     </MEAN_OBS>
+ <STDV_OBS>  0.317415655     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>  0.335667491     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.294251323     </BIAS>
+ <RMSE>  0.528734148     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>polar</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.290429115     </BIAS>
+ <RMSE>  0.531382620     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.292306751     </BIAS>
+ <RMSE>  0.528779984     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.198159382     </MEAN_OBS>
+ <STDV_OBS>  0.298546076     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.316130877     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.255554408     </BIAS>
+ <RMSE>  0.657342076     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.255314529     </BIAS>
+ <RMSE>  0.655142665     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.254518360     </BIAS>
+ <RMSE>  0.660124123     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10429442E-02 </MEAN_OBS>
+ <STDV_OBS>   8.35242495E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   2.18485016E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   8.74569044E-02 </BIAS>
+ <RMSE>  0.408201069     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.93021896E-02 </BIAS>
+ <RMSE>  0.411586106     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   8.71081576E-02 </BIAS>
+ <RMSE>  0.421516478     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83127616E-02 </MEAN_OBS>
+ <STDV_OBS>  0.116373628     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   7.01720491E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.102210671     </BIAS>
+ <RMSE>  0.469927669     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.103904173     </BIAS>
+ <RMSE>  0.463010699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.103819378     </BIAS>
+ <RMSE>  0.463450879     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.34553453E-02 </MEAN_OBS>
+ <STDV_OBS>  0.153007030     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.119879052     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.147234336     </BIAS>
+ <RMSE>  0.377736121     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145036578     </BIAS>
+ <RMSE>  0.387985319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.145567238     </BIAS>
+ <RMSE>  0.380912215     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.74796924E-02 </MEAN_OBS>
+ <STDV_OBS>  0.274662584     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.192950249     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.264940351     </BIAS>
+ <RMSE>  0.320991695     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.263359874     </BIAS>
+ <RMSE>  0.325521678     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.263937384     </BIAS>
+ <RMSE>  0.326388776     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131967232     </MEAN_OBS>
+ <STDV_OBS>  0.232208818     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.173197761     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.282394767     </BIAS>
+ <RMSE>  0.293637067     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>polar</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.279456019     </BIAS>
+ <RMSE>  0.300448805     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.281224728     </BIAS>
+ <RMSE>  0.296508521     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.24131072E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258370996     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.172523186     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.220780671     </BIAS>
+ <RMSE>  0.516886592     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.221285850     </BIAS>
+ <RMSE>  0.519960582     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.221909553     </BIAS>
+ <RMSE>  0.519187868     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.62551347E-02 </MEAN_OBS>
+ <STDV_OBS>  0.105679438     </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   6.57168552E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.101203874     </BIAS>
+ <RMSE>  0.377754718     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.71608087E-02 </BIAS>
+ <RMSE>  0.390169084     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.70764235E-02 </BIAS>
+ <RMSE>  0.393456787     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.36755849E-02 </MEAN_OBS>
+ <STDV_OBS>  0.175942317     </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>REF</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  0.114264257     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.155129448     </BIAS>
+ <RMSE>  0.531516492     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>polar</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.153088585     </BIAS>
+ <RMSE>  0.540930331     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.152830765     </BIAS>
+ <RMSE>  0.536168814     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.68839281E-02 </MEAN_OBS>
+ <STDV_OBS>  0.205655649     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>REF</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  0.115727201     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.192009464     </BIAS>
+ <RMSE>  0.352908880     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>polar</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.195228696     </BIAS>
+ <RMSE>  0.347451657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.194311887     </BIAS>
+ <RMSE>  0.349442869     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.53657946E-02 </MEAN_OBS>
+ <STDV_OBS>  0.271976382     </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.201873839     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.277002364     </BIAS>
+ <RMSE>  0.330515742     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.280327141     </BIAS>
+ <RMSE>  0.323988795     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.276863188     </BIAS>
+ <RMSE>  0.330119520     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.58282733E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218237162     </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.129756019     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.214833990     </BIAS>
+ <RMSE>  0.388367981     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199527606     </BIAS>
+ <RMSE>  0.411985755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.202734426     </BIAS>
+ <RMSE>  0.408458859     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.69547522E-02 </MEAN_OBS>
+ <STDV_OBS>  0.263650179     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.168614343     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.256944299     </BIAS>
+ <RMSE>  0.349946290     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249711454     </BIAS>
+ <RMSE>  0.335380405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.253244340     </BIAS>
+ <RMSE>  0.346276790     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.11523022E-02 </MEAN_OBS>
+ <STDV_OBS>  0.142009363     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   5.80682941E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.130603448     </BIAS>
+ <RMSE>  0.692791879     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134686962     </BIAS>
+ <RMSE>  0.670152068     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.133369967     </BIAS>
+ <RMSE>  0.677387655     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.47966990E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218086571     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   9.90011096E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.151049525     </BIAS>
+ <RMSE>  0.768244803     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.153772399     </BIAS>
+ <RMSE>  0.761310995     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.154290840     </BIAS>
+ <RMSE>  0.761474133     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.13168813E-02 </MEAN_OBS>
+ <STDV_OBS>  0.259807378     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.121131495     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.184429824     </BIAS>
+ <RMSE>  0.753292859     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.192929357     </BIAS>
+ <RMSE>  0.728388429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.188523829     </BIAS>
+ <RMSE>  0.742591619     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106961943     </MEAN_OBS>
+ <STDV_OBS>  0.324792236     </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>REF</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.240931347     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.255459517     </BIAS>
+ <RMSE>  0.630040765     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>polar</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.253648967     </BIAS>
+ <RMSE>  0.624980152     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.254000157     </BIAS>
+ <RMSE>  0.631338954     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.29268314E-02 </MEAN_OBS>
+ <STDV_OBS>  0.246574745     </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.117666237     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.218568653     </BIAS>
+ <RMSE>  0.461618036     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219284609     </BIAS>
+ <RMSE>  0.461866200     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.218214169     </BIAS>
+ <RMSE>  0.464039981     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000006     </MEAN_OBS>
+ <STDV_OBS>  0.311898321     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>REF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>  0.480502456     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.313144594     </BIAS>
+ <RMSE>  0.401474267     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>polar</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.295036048     </BIAS>
+ <RMSE>  0.430844694     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.302846849     </BIAS>
+ <RMSE>  0.409268111     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108737901     </MEAN_OBS>
+ <STDV_OBS>  0.154031888     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>REF</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   9.94602144E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.181746632     </BIAS>
+ <RMSE>  0.499080509     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>polar</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188168094     </BIAS>
+ <RMSE>  0.460439235     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.188372940     </BIAS>
+ <RMSE>  0.457074344     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.97546357E-02 </MEAN_OBS>
+ <STDV_OBS>  0.182678938     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.107668534     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.197126776     </BIAS>
+ <RMSE>  0.587581813     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189885005     </BIAS>
+ <RMSE>  0.585977674     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.194408417     </BIAS>
+ <RMSE>  0.579055607     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.61788794E-02 </MEAN_OBS>
+ <STDV_OBS>   9.86010134E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   5.88670336E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   9.52536613E-02 </BIAS>
+ <RMSE>  0.557452798     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.61164907E-02 </BIAS>
+ <RMSE>  0.555483282     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.61061865E-02 </BIAS>
+ <RMSE>  0.556069732     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.96341570E-02 </MEAN_OBS>
+ <STDV_OBS>  0.122467272     </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   4.70700786E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.104289040     </BIAS>
+ <RMSE>  0.739233792     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.108685002     </BIAS>
+ <RMSE>  0.714277029     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.109602161     </BIAS>
+ <RMSE>  0.710839033     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141463429     </MEAN_OBS>
+ <STDV_OBS>  0.348073781     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>REF</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>  0.255022556     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.232013091     </BIAS>
+ <RMSE>  0.713490546     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>polar</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.254812032     </BIAS>
+ <RMSE>  0.709688544     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.251954019     </BIAS>
+ <RMSE>  0.700148940     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45283023E-02 </MEAN_OBS>
+ <STDV_OBS>  0.220716506     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>REF</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>  0.100793593     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.238987491     </BIAS>
+ <RMSE>   6.86630607E-02 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>polar</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.242472172     </BIAS>
+ <RMSE>   7.09315315E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.239915654     </BIAS>
+ <RMSE>   6.84322491E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75510401E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213660911     </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>REF</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   9.37782526E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.200081527     </BIAS>
+ <RMSE>  0.387054682     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>polar</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201182052     </BIAS>
+ <RMSE>  0.383943558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.199040502     </BIAS>
+ <RMSE>  0.388555467     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.39263810E-02 </MEAN_OBS>
+ <STDV_OBS>  0.193899885     </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   8.22400078E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.213303924     </BIAS>
+ <RMSE>   5.62211238E-02 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214132115     </BIAS>
+ <RMSE>   5.85315749E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.213779479     </BIAS>
+ <RMSE>   6.18467815E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.250000060     </MEAN_OBS>
+ <STDV_OBS>  0.224277854     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>REF</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>  0.236805812     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.289669901     </BIAS>
+ <RMSE>  0.506553233     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>polar</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.288364589     </BIAS>
+ <RMSE>  0.509298503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.290002108     </BIAS>
+ <RMSE>  0.506280720     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.66255194E-02 </MEAN_OBS>
+ <STDV_OBS>  0.120386086     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   5.49114756E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.103451081     </BIAS>
+ <RMSE>  0.637156188     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.105694912     </BIAS>
+ <RMSE>  0.628143549     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.105371282     </BIAS>
+ <RMSE>  0.629145026     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.21181689E-02 </MEAN_OBS>
+ <STDV_OBS>  0.163069218     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>REF</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   6.87731802E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.122529410     </BIAS>
+ <RMSE>  0.733159006     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>polar</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122500464     </BIAS>
+ <RMSE>  0.733694851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.122636043     </BIAS>
+ <RMSE>  0.734538913     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.64197567E-02 </MEAN_OBS>
+ <STDV_OBS>  0.277631104     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.174974144     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.235069737     </BIAS>
+ <RMSE>  0.565975308     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.239817709     </BIAS>
+ <RMSE>  0.572728395     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.235632747     </BIAS>
+ <RMSE>  0.568980277     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.93902452E-02 </MEAN_OBS>
+ <STDV_OBS>  0.271353275     </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.148044258     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.235793978     </BIAS>
+ <RMSE>  0.491022229     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.242112935     </BIAS>
+ <RMSE>  0.478271753     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.236819059     </BIAS>
+ <RMSE>  0.489360482     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.52675037E-02 </MEAN_OBS>
+ <STDV_OBS>  0.255468160     </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.138005793     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.205390602     </BIAS>
+ <RMSE>  0.598181903     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.202366650     </BIAS>
+ <RMSE>  0.605937839     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.205114648     </BIAS>
+ <RMSE>  0.600011945     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.27235796E-02 </MEAN_OBS>
+ <STDV_OBS>  0.222142264     </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.104321949     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.209080756     </BIAS>
+ <RMSE>  0.357728928     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209889919     </BIAS>
+ <RMSE>  0.356195927     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.208785847     </BIAS>
+ <RMSE>  0.357916623     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127004147     </MEAN_OBS>
+ <STDV_OBS>  0.318873376     </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>REF</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.212619230     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.256704688     </BIAS>
+ <RMSE>  0.632282913     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>polar</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.263672173     </BIAS>
+ <RMSE>  0.622103631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.259626269     </BIAS>
+ <RMSE>  0.627757311     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.81481701E-02 </MEAN_OBS>
+ <STDV_OBS>  0.264674217     </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.137649015     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.224008426     </BIAS>
+ <RMSE>  0.542007446     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226032197     </BIAS>
+ <RMSE>  0.539029479     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.221860036     </BIAS>
+ <RMSE>  0.548240781     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.235714391     </MEAN_OBS>
+ <STDV_OBS>  0.269080997     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>REF</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.210617498     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.205210105     </BIAS>
+ <RMSE>  0.650815606     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>polar</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.205085576     </BIAS>
+ <RMSE>  0.623705924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.202858701     </BIAS>
+ <RMSE>  0.653854966     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256923109     </MEAN_OBS>
+ <STDV_OBS>  0.314243287     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>REF</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>  0.291842014     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.294731528     </BIAS>
+ <RMSE>  0.358624130     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>polar</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.299406797     </BIAS>
+ <RMSE>  0.364605248     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.310348481     </BIAS>
+ <RMSE>  0.320674211     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25153396E-02 </MEAN_OBS>
+ <STDV_OBS>  0.202596515     </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.105199993     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.207632661     </BIAS>
+ <RMSE>  0.181927159     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214759901     </BIAS>
+ <RMSE>  0.158675194     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.207536370     </BIAS>
+ <RMSE>  0.162009910     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.74846396E-03 </MEAN_OBS>
+ <STDV_OBS>  0.164694875     </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   6.55282438E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.161740094     </BIAS>
+ <RMSE>  0.225686729     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155313849     </BIAS>
+ <RMSE>  0.261533141     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.160390154     </BIAS>
+ <RMSE>  0.232274994     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.10569347E-02 </MEAN_OBS>
+ <STDV_OBS>  0.195399299     </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   9.39757079E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.156859204     </BIAS>
+ <RMSE>  0.607054830     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.156715527     </BIAS>
+ <RMSE>  0.607637465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.157042608     </BIAS>
+ <RMSE>  0.600050628     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.02898607E-02 </MEAN_OBS>
+ <STDV_OBS>  0.118686743     </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>REF</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   5.63947521E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.126978129     </BIAS>
+ <RMSE>  0.142175734     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>polar</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.124817915     </BIAS>
+ <RMSE>  0.146954209     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.125663832     </BIAS>
+ <RMSE>  0.143977582     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.70348001E-02 </MEAN_OBS>
+ <STDV_OBS>  0.169695318     </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   9.95636955E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.182270765     </BIAS>
+ <RMSE>  0.298638612     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.180679828     </BIAS>
+ <RMSE>  0.285697937     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.180372968     </BIAS>
+ <RMSE>  0.291388333     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.415493131     </MEAN_OBS>
+ <STDV_OBS>  0.336872339     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>REF</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>  0.347080231     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.317184150     </BIAS>
+ <RMSE>  0.578826785     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>polar</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.323464066     </BIAS>
+ <RMSE>  0.559575260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.320342928     </BIAS>
+ <RMSE>  0.568710625     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25153247E-02 </MEAN_OBS>
+ <STDV_OBS>  0.123628296     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   6.38379976E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.138499036     </BIAS>
+ <RMSE>  0.289841741     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.138161510     </BIAS>
+ <RMSE>  0.266121328     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.138401300     </BIAS>
+ <RMSE>  0.263903618     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.17073658E-02 </MEAN_OBS>
+ <STDV_OBS>  0.171884432     </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   8.41144249E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.198352054     </BIAS>
+ <RMSE>  0.566335082     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209127098     </BIAS>
+ <RMSE>  0.519298851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.210831091     </BIAS>
+ <RMSE>  0.514729083     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.52845523E-02 </MEAN_OBS>
+ <STDV_OBS>  0.114285089     </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   6.80927485E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.124509707     </BIAS>
+ <RMSE>  0.577274323     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.124997593     </BIAS>
+ <RMSE>  0.568130434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.125951335     </BIAS>
+ <RMSE>  0.564426005     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.277118802     </MEAN_OBS>
+ <STDV_OBS>  0.215200514     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.163927600     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.172822490     </BIAS>
+ <RMSE>  0.718811870     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>polar</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.174525619     </BIAS>
+ <RMSE>  0.700489879     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.173896760     </BIAS>
+ <RMSE>  0.700738192     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.48780672E-02 </MEAN_OBS>
+ <STDV_OBS>  0.198801249     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.107997939     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.183670580     </BIAS>
+ <RMSE>  0.688646555     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184705406     </BIAS>
+ <RMSE>  0.686497450     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.185301825     </BIAS>
+ <RMSE>  0.685391963     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.35992065E-02 </MEAN_OBS>
+ <STDV_OBS>   9.74432081E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   5.54648750E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.135896921     </BIAS>
+ <RMSE>  0.473594844     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145643577     </BIAS>
+ <RMSE>  0.400791764     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.142970935     </BIAS>
+ <RMSE>  0.419028729     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08943279E-02 </MEAN_OBS>
+ <STDV_OBS>  0.166662887     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   9.19314250E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.115681916     </BIAS>
+ <RMSE>  0.727032304     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.118417539     </BIAS>
+ <RMSE>  0.712502241     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.116183497     </BIAS>
+ <RMSE>  0.718917608     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.10569161E-02 </MEAN_OBS>
+ <STDV_OBS>  0.194056973     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   6.78715259E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.119313926     </BIAS>
+ <RMSE>  0.774369240     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131612092     </BIAS>
+ <RMSE>  0.738101542     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.132585898     </BIAS>
+ <RMSE>  0.738986611     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.14634019E-03 </MEAN_OBS>
+ <STDV_OBS>  0.195806921     </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   9.24229547E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.190546691     </BIAS>
+ <RMSE>  0.231975302     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194101512     </BIAS>
+ <RMSE>  0.231989071     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.190293625     </BIAS>
+ <RMSE>  0.232290834     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.89024359E-02 </MEAN_OBS>
+ <STDV_OBS>  0.180084005     </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   7.93488175E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.192764968     </BIAS>
+ <RMSE>  0.130263269     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.200139835     </BIAS>
+ <RMSE>  0.117595300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.195859343     </BIAS>
+ <RMSE>  0.125940323     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71951349E-02 </MEAN_OBS>
+ <STDV_OBS>  0.186958760     </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   7.46815503E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.143569410     </BIAS>
+ <RMSE>  0.652753770     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143943638     </BIAS>
+ <RMSE>  0.648284435     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.144142643     </BIAS>
+ <RMSE>  0.651180685     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.29447880E-03 </MEAN_OBS>
+ <STDV_OBS>  0.152716771     </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   5.30762561E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.154382467     </BIAS>
+ <RMSE>  -2.77247224E-02 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154272184     </BIAS>
+ <RMSE>  -2.64449194E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.154887974     </BIAS>
+ <RMSE>  -2.58000623E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87804925E-03 </MEAN_OBS>
+ <STDV_OBS>  0.122927956     </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   5.32177500E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.123379171     </BIAS>
+ <RMSE>  0.107888311     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126002297     </BIAS>
+ <RMSE>  0.115048796     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.123009510     </BIAS>
+ <RMSE>  0.110114202     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.50617336E-02 </MEAN_OBS>
+ <STDV_OBS>  0.208924189     </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   9.55207422E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.142562479     </BIAS>
+ <RMSE>  0.741448283     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143945158     </BIAS>
+ <RMSE>  0.735758543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.143404096     </BIAS>
+ <RMSE>  0.737734318     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196226552     </MEAN_OBS>
+ <STDV_OBS>  0.167134479     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>REF</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>  0.133913562     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.157712564     </BIAS>
+ <RMSE>  0.410110384     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>polar</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.158083022     </BIAS>
+ <RMSE>  0.400393039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.158885181     </BIAS>
+ <RMSE>  0.404691577     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.51020435E-02 </MEAN_OBS>
+ <STDV_OBS>  0.118672580     </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>REF</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   5.72558604E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.126265973     </BIAS>
+ <RMSE>  0.422054321     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>polar</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126001120     </BIAS>
+ <RMSE>  0.433219820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.126801208     </BIAS>
+ <RMSE>  0.436000675     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87805083E-02 </MEAN_OBS>
+ <STDV_OBS>  0.137145609     </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   5.92104867E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.105155908     </BIAS>
+ <RMSE>  0.678765535     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104354806     </BIAS>
+ <RMSE>  0.680059671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.105547175     </BIAS>
+ <RMSE>  0.677474678     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.231818363     </MEAN_OBS>
+ <STDV_OBS>  0.127448261     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>REF</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.141285166     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.207165390     </BIAS>
+ <RMSE>  -2.66672950E-03 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>polar</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.210932940     </BIAS>
+ <RMSE>  -2.74051223E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.210272700     </BIAS>
+ <RMSE>  -1.61094256E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167924538     </MEAN_OBS>
+ <STDV_OBS>  0.306444257     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>REF</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.369910955     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.305564672     </BIAS>
+ <RMSE>  0.153260127     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>polar</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.302341044     </BIAS>
+ <RMSE>  0.161175892     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.304091066     </BIAS>
+ <RMSE>  0.178223252     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.40243871E-02 </MEAN_OBS>
+ <STDV_OBS>   9.00925323E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   4.87538986E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   9.72092897E-02 </BIAS>
+ <RMSE>  0.281111658     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.54288989E-02 </BIAS>
+ <RMSE>  0.296490103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.53771248E-02 </BIAS>
+ <RMSE>  0.296171695     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.68839188E-02 </MEAN_OBS>
+ <STDV_OBS>  0.140528902     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>REF</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   7.25549757E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.140797287     </BIAS>
+ <RMSE>  0.369510859     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>polar</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.138293207     </BIAS>
+ <RMSE>  0.383063078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.138939425     </BIAS>
+ <RMSE>  0.383385420     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.61396298E-02 </MEAN_OBS>
+ <STDV_OBS>  0.140767008     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>REF</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   6.12173453E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.121806584     </BIAS>
+ <RMSE>  0.556316555     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>polar</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.118649334     </BIAS>
+ <RMSE>  0.572715223     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.119305730     </BIAS>
+ <RMSE>  0.572951138     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.54098400E-02 </MEAN_OBS>
+ <STDV_OBS>  0.177278906     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>REF</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.126387864     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.164723277     </BIAS>
+ <RMSE>  0.365936190     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>polar</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162257761     </BIAS>
+ <RMSE>  0.363746762     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.165247127     </BIAS>
+ <RMSE>  0.361501306     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.87368906E-02 </MEAN_OBS>
+ <STDV_OBS>  0.203423917     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>REF</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  0.133708298     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.166953385     </BIAS>
+ <RMSE>  0.581471205     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>polar</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.164859578     </BIAS>
+ <RMSE>  0.580929101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.168271348     </BIAS>
+ <RMSE>  0.574242592     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.24999990E-02 </MEAN_OBS>
+ <STDV_OBS>  0.127727479     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   6.87300637E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.116045050     </BIAS>
+ <RMSE>  0.428992867     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.115248628     </BIAS>
+ <RMSE>  0.425643206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.115707755     </BIAS>
+ <RMSE>  0.430470467     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.75000420E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209096849     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.133815914     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.158247784     </BIAS>
+ <RMSE>  0.653110206     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.156007662     </BIAS>
+ <RMSE>  0.654972732     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.158520669     </BIAS>
+ <RMSE>  0.651201844     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60417213E-02 </MEAN_OBS>
+ <STDV_OBS>  0.189021289     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.132802829     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.153565347     </BIAS>
+ <RMSE>  0.582308114     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.152185291     </BIAS>
+ <RMSE>  0.578867495     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.154502451     </BIAS>
+ <RMSE>  0.575538754     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.03534456E-02 </MEAN_OBS>
+ <STDV_OBS>  0.111342639     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>REF</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   6.40844777E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   9.36220437E-02 </BIAS>
+ <RMSE>  0.605047047     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>polar</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.31250229E-02 </BIAS>
+ <RMSE>  0.604911268     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.38204825E-02 </BIAS>
+ <RMSE>  0.600587845     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.30020818E-02 </MEAN_OBS>
+ <STDV_OBS>  0.170643419     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>REF</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  0.146054208     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.139603749     </BIAS>
+ <RMSE>  0.581997454     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>polar</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.139014900     </BIAS>
+ <RMSE>  0.582778454     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.139480710     </BIAS>
+ <RMSE>  0.582230568     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.39918074E-02 </MEAN_OBS>
+ <STDV_OBS>  0.166979358     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.128576383     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.133292526     </BIAS>
+ <RMSE>  0.634948969     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.132650137     </BIAS>
+ <RMSE>  0.630533397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.132668883     </BIAS>
+ <RMSE>  0.632288694     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.155090049     </MEAN_OBS>
+ <STDV_OBS>  0.225800380     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         167 </NUM>
+ <MEAN>  0.236302182     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.241297051     </BIAS>
+ <RMSE>  0.111857690     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>polar</NAME>
+ <NUM>         167 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.237902433     </BIAS>
+ <RMSE>  0.102679536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         167 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.237481132     </BIAS>
+ <RMSE>  0.113430537     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.15447888E-02 </MEAN_OBS>
+ <STDV_OBS>  0.185544416     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.164213046     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.167275831     </BIAS>
+ <RMSE>  0.526612163     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.167633981     </BIAS>
+ <RMSE>  0.521007061     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.167215616     </BIAS>
+ <RMSE>  0.522670209     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.57202829E-02 </MEAN_OBS>
+ <STDV_OBS>  0.187094614     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>REF</NAME>
+ <NUM>         479 </NUM>
+ <MEAN>  0.138778970     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.145911336     </BIAS>
+ <RMSE>  0.650327146     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>polar</NAME>
+ <NUM>         479 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143893093     </BIAS>
+ <RMSE>  0.646422803     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         479 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.143531695     </BIAS>
+ <RMSE>  0.648871660     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.197044313     </MEAN_OBS>
+ <STDV_OBS>  0.254007041     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>  0.210200757     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.229828596     </BIAS>
+ <RMSE>  0.667728722     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>polar</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.227778807     </BIAS>
+ <RMSE>  0.671316445     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.228528351     </BIAS>
+ <RMSE>  0.669483006     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.72877878E-02 </MEAN_OBS>
+ <STDV_OBS>  0.202664465     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>REF</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  0.143051699     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.190704480     </BIAS>
+ <RMSE>  0.457935810     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>polar</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.186537892     </BIAS>
+ <RMSE>  0.464893252     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.187603071     </BIAS>
+ <RMSE>  0.466283381     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.195122123     </MEAN_OBS>
+ <STDV_OBS>  0.323604017     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>  0.415448219     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.328677267     </BIAS>
+ <RMSE>  0.189132288     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>polar</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.318924755     </BIAS>
+ <RMSE>  0.211977303     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.320350587     </BIAS>
+ <RMSE>  0.209140092     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.56441897E-02 </MEAN_OBS>
+ <STDV_OBS>  0.233200967     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.166514009     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.162862688     </BIAS>
+ <RMSE>  0.721833050     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162867174     </BIAS>
+ <RMSE>  0.714879096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.163188919     </BIAS>
+ <RMSE>  0.715334892     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.52439371E-02 </MEAN_OBS>
+ <STDV_OBS>  0.198586032     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.144475132     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.165695935     </BIAS>
+ <RMSE>  0.622423887     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.161922783     </BIAS>
+ <RMSE>  0.627296031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.163501889     </BIAS>
+ <RMSE>  0.625177205     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127811804     </MEAN_OBS>
+ <STDV_OBS>  0.308251709     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.242865682     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.221152470     </BIAS>
+ <RMSE>  0.746860385     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219919831     </BIAS>
+ <RMSE>  0.750422955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.221237436     </BIAS>
+ <RMSE>  0.747450173     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.63188484E-02 </MEAN_OBS>
+ <STDV_OBS>  0.219351813     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.198204681     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.190139890     </BIAS>
+ <RMSE>  0.574428260     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.187881604     </BIAS>
+ <RMSE>  0.573383391     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.188253939     </BIAS>
+ <RMSE>  0.574842036     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.24738522E-02 </MEAN_OBS>
+ <STDV_OBS>  0.192181975     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>REF</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>  0.140953824     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.157944992     </BIAS>
+ <RMSE>  0.589308739     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>polar</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154373169     </BIAS>
+ <RMSE>  0.590296149     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.157346904     </BIAS>
+ <RMSE>  0.586984634     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125000045     </MEAN_OBS>
+ <STDV_OBS>  0.269151628     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.230968595     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.198346600     </BIAS>
+ <RMSE>  0.731999278     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197953880     </BIAS>
+ <RMSE>  0.733367443     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.199922174     </BIAS>
+ <RMSE>  0.729489625     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.51218829E-02 </MEAN_OBS>
+ <STDV_OBS>  0.278858930     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.258437365     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.218133897     </BIAS>
+ <RMSE>  0.636823714     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.216718718     </BIAS>
+ <RMSE>  0.637247562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.215892807     </BIAS>
+ <RMSE>  0.639059603     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.38036877E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209264070     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.182066232     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.161809757     </BIAS>
+ <RMSE>  0.663443804     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.159563556     </BIAS>
+ <RMSE>  0.663590848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.160962895     </BIAS>
+ <RMSE>  0.661819041     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.19427806E-02 </MEAN_OBS>
+ <STDV_OBS>  0.163588509     </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.134732544     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.164718762     </BIAS>
+ <RMSE>  0.290757060     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.157125637     </BIAS>
+ <RMSE>  0.306934983     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.164688781     </BIAS>
+ <RMSE>  0.288987279     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.74437922E-02 </MEAN_OBS>
+ <STDV_OBS>  0.132828906     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.105870664     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.122319855     </BIAS>
+ <RMSE>  0.540436864     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.118939005     </BIAS>
+ <RMSE>  0.552903414     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.120808594     </BIAS>
+ <RMSE>  0.545189619     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78600955E-02 </MEAN_OBS>
+ <STDV_OBS>  0.129901856     </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   9.09900218E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.131767571     </BIAS>
+ <RMSE>  0.406965941     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131964296     </BIAS>
+ <RMSE>  0.412452489     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.132877395     </BIAS>
+ <RMSE>  0.407458514     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.58078049E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146091372     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.108792908     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.156885400     </BIAS>
+ <RMSE>  0.360022783     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155721202     </BIAS>
+ <RMSE>  0.370795250     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.155779243     </BIAS>
+ <RMSE>  0.369995475     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.95121959E-02 </MEAN_OBS>
+ <STDV_OBS>  0.150295258     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.127933919     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.166669473     </BIAS>
+ <RMSE>  0.429133624     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.165405184     </BIAS>
+ <RMSE>  0.430881917     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.165003270     </BIAS>
+ <RMSE>  0.434536040     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.07407619E-02 </MEAN_OBS>
+ <STDV_OBS>  0.139381200     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.117727965     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.134752467     </BIAS>
+ <RMSE>  0.403427958     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133481264     </BIAS>
+ <RMSE>  0.409039497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.133637100     </BIAS>
+ <RMSE>  0.409364969     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.90946791E-02 </MEAN_OBS>
+ <STDV_OBS>  0.147574395     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.111192964     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.136606768     </BIAS>
+ <RMSE>  0.440652430     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134565055     </BIAS>
+ <RMSE>  0.451010466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.134614468     </BIAS>
+ <RMSE>  0.446149588     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.83740084E-02 </MEAN_OBS>
+ <STDV_OBS>  0.139700085     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.124073125     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.147556603     </BIAS>
+ <RMSE>  0.330848008     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146038651     </BIAS>
+ <RMSE>  0.335212082     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.146370113     </BIAS>
+ <RMSE>  0.333552152     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184979185     </MEAN_OBS>
+ <STDV_OBS>  0.343327165     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.275004715     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.283117652     </BIAS>
+ <RMSE>  0.626489639     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.281044632     </BIAS>
+ <RMSE>  0.632752001     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.281870425     </BIAS>
+ <RMSE>  0.631701648     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.82413194E-02 </MEAN_OBS>
+ <STDV_OBS>  0.183188170     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.142460644     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.159425065     </BIAS>
+ <RMSE>  0.492074043     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.158211663     </BIAS>
+ <RMSE>  0.494984567     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.159793451     </BIAS>
+ <RMSE>  0.490724117     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.14285129E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181099817     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>REF</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  0.174935028     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.180726245     </BIAS>
+ <RMSE>  0.368218452     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>polar</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.176984817     </BIAS>
+ <RMSE>  0.384752989     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.178245828     </BIAS>
+ <RMSE>  0.375963181     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.123868190     </MEAN_OBS>
+ <STDV_OBS>  0.205102444     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.202661768     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.228641197     </BIAS>
+ <RMSE>  0.301968873     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.225888669     </BIAS>
+ <RMSE>  0.315324783     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.227722108     </BIAS>
+ <RMSE>  0.300531328     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.39918223E-02 </MEAN_OBS>
+ <STDV_OBS>  0.229581520     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.185624197     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.190540761     </BIAS>
+ <RMSE>  0.578830719     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189765036     </BIAS>
+ <RMSE>  0.579601467     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.190592080     </BIAS>
+ <RMSE>  0.578371286     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.20164031E-02 </MEAN_OBS>
+ <STDV_OBS>  0.223707750     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.189805567     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.192521527     </BIAS>
+ <RMSE>  0.566334784     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.191349015     </BIAS>
+ <RMSE>  0.571986735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.192450687     </BIAS>
+ <RMSE>  0.566469312     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.68312642E-02 </MEAN_OBS>
+ <STDV_OBS>  0.259876072     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.183623374     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.217264071     </BIAS>
+ <RMSE>  0.543081105     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219505429     </BIAS>
+ <RMSE>  0.542852163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.219029889     </BIAS>
+ <RMSE>  0.542793989     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.05737907E-02 </MEAN_OBS>
+ <STDV_OBS>  0.185383901     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>REF</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.142708018     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.175634325     </BIAS>
+ <RMSE>  0.363842547     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>polar</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.172070175     </BIAS>
+ <RMSE>  0.375392884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.172233224     </BIAS>
+ <RMSE>  0.375160754     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.63803806E-02 </MEAN_OBS>
+ <STDV_OBS>  0.100866914     </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   6.67685047E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   9.89771560E-02 </BIAS>
+ <RMSE>  0.360705197     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.87864807E-02 </BIAS>
+ <RMSE>  0.358618975     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.78672802E-02 </BIAS>
+ <RMSE>  0.361277491     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.06250614E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209663510     </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.163879633     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.183626786     </BIAS>
+ <RMSE>  0.503881931     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.185123548     </BIAS>
+ <RMSE>  0.510450065     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.181696460     </BIAS>
+ <RMSE>  0.511282802     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.73469459E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152661353     </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>REF</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  0.136383519     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.167018458     </BIAS>
+ <RMSE>  0.317212701     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>polar</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.161414519     </BIAS>
+ <RMSE>  0.333569348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         490 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.160467431     </BIAS>
+ <RMSE>  0.337740123     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.45935589E-02 </MEAN_OBS>
+ <STDV_OBS>  0.229791939     </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.174070880     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.217781022     </BIAS>
+ <RMSE>  0.412050217     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209892794     </BIAS>
+ <RMSE>  0.422936380     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.211940452     </BIAS>
+ <RMSE>  0.422042310     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75720246E-02 </MEAN_OBS>
+ <STDV_OBS>  0.141672090     </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   9.30756927E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.138876319     </BIAS>
+ <RMSE>  0.347757757     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136452749     </BIAS>
+ <RMSE>  0.353211582     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.136000797     </BIAS>
+ <RMSE>  0.355858922     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55328317E-02 </MEAN_OBS>
+ <STDV_OBS>  0.247238591     </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>REF</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.142133862     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.218415499     </BIAS>
+ <RMSE>  0.461827844     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>polar</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.218456239     </BIAS>
+ <RMSE>  0.467933148     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.221624136     </BIAS>
+ <RMSE>  0.457649797     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.10162972E-02 </MEAN_OBS>
+ <STDV_OBS>  0.208734110     </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.112480111     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.198007375     </BIAS>
+ <RMSE>  0.353567332     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199148104     </BIAS>
+ <RMSE>  0.369834632     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.195772454     </BIAS>
+ <RMSE>  0.368070483     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.86585558E-02 </MEAN_OBS>
+ <STDV_OBS>  0.229352728     </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.117549762     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.199063167     </BIAS>
+ <RMSE>  0.570111513     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194063067     </BIAS>
+ <RMSE>  0.573937058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.195693552     </BIAS>
+ <RMSE>  0.562707305     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.97515818E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218427971     </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>REF</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  0.124023534     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.187601343     </BIAS>
+ <RMSE>  0.551209867     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>polar</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.180587366     </BIAS>
+ <RMSE>  0.569770515     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.181165919     </BIAS>
+ <RMSE>  0.566207170     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.99182397E-02 </MEAN_OBS>
+ <STDV_OBS>  0.255615294     </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.164148316     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.257938355     </BIAS>
+ <RMSE>  0.322832555     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.254233420     </BIAS>
+ <RMSE>  0.327893257     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.253978610     </BIAS>
+ <RMSE>  0.329036921     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.95780818E-02 </MEAN_OBS>
+ <STDV_OBS>  0.254414618     </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>REF</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.158583865     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.235325322     </BIAS>
+ <RMSE>  0.427948177     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>polar</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.235547498     </BIAS>
+ <RMSE>  0.436087847     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.232422233     </BIAS>
+ <RMSE>  0.441342205     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142405003     </MEAN_OBS>
+ <STDV_OBS>  0.287672311     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>REF</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.202833280     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.289224267     </BIAS>
+ <RMSE>  0.408485234     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>polar</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.287905812     </BIAS>
+ <RMSE>  0.413201421     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.286734253     </BIAS>
+ <RMSE>  0.417900443     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132510290     </MEAN_OBS>
+ <STDV_OBS>  0.248488382     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.184786886     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.285767913     </BIAS>
+ <RMSE>  0.294274449     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.288303584     </BIAS>
+ <RMSE>  0.298747361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.283591568     </BIAS>
+ <RMSE>  0.303410769     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.36196935E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258440435     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.162460491     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.262459129     </BIAS>
+ <RMSE>  0.225671366     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.266387314     </BIAS>
+ <RMSE>  0.224494606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.265489876     </BIAS>
+ <RMSE>  0.222264424     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.68750098E-02 </MEAN_OBS>
+ <STDV_OBS>  0.236360267     </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.138283551     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.243311405     </BIAS>
+ <RMSE>   8.17364603E-02 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.235286444     </BIAS>
+ <RMSE>   9.81288627E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.239128545     </BIAS>
+ <RMSE>   9.16631967E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.70542579E-02 </MEAN_OBS>
+ <STDV_OBS>  0.287046611     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>REF</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  0.177180544     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.295045644     </BIAS>
+ <RMSE>   8.46822336E-02 </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>polar</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.294912338     </BIAS>
+ <RMSE>   8.01508278E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         387 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.286856085     </BIAS>
+ <RMSE>   8.35921764E-02 </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.86420335E-02 </MEAN_OBS>
+ <STDV_OBS>  0.243154675     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>REF</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.183499798     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.231037974     </BIAS>
+ <RMSE>  0.318775207     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>polar</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.238294005     </BIAS>
+ <RMSE>  0.303693652     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.233772755     </BIAS>
+ <RMSE>  0.321927011     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.61191866E-02 </MEAN_OBS>
+ <STDV_OBS>  0.232279599     </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>REF</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  0.175078288     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.218718946     </BIAS>
+ <RMSE>  0.420441389     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>polar</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219505981     </BIAS>
+ <RMSE>  0.422885031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.216008738     </BIAS>
+ <RMSE>  0.423931748     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266197324     </MEAN_OBS>
+ <STDV_OBS>  0.317488432     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>REF</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>  0.237450853     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.211489603     </BIAS>
+ <RMSE>  0.764798760     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>polar</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201052725     </BIAS>
+ <RMSE>  0.776578128     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          71 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.202577993     </BIAS>
+ <RMSE>  0.778662264     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47154567E-02 </MEAN_OBS>
+ <STDV_OBS>  0.124427363     </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   6.14994504E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.160072520     </BIAS>
+ <RMSE>  0.630343854     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154873952     </BIAS>
+ <RMSE>  0.664246202     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.156446114     </BIAS>
+ <RMSE>  0.653320670     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.49898094E-02 </MEAN_OBS>
+ <STDV_OBS>  0.144515604     </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   6.06967323E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.158176437     </BIAS>
+ <RMSE>  0.565272272     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.159266904     </BIAS>
+ <RMSE>  0.554518819     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.159199655     </BIAS>
+ <RMSE>  0.559333682     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.159574509     </MEAN_OBS>
+ <STDV_OBS>  0.264875472     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>REF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>  0.194930986     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.220866889     </BIAS>
+ <RMSE>  0.842408717     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>polar</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.224579677     </BIAS>
+ <RMSE>  0.835301399     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.225098118     </BIAS>
+ <RMSE>  0.833820760     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.45833048E-02 </MEAN_OBS>
+ <STDV_OBS>  0.231039271     </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>REF</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.190596342     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.207372218     </BIAS>
+ <RMSE>  0.438302934     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>polar</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.206996039     </BIAS>
+ <RMSE>  0.436872751     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.209186241     </BIAS>
+ <RMSE>  0.435220867     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.87398559E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152636617     </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   6.66642264E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.153137073     </BIAS>
+ <RMSE>  0.656274140     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.156618118     </BIAS>
+ <RMSE>  0.639221370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.153775230     </BIAS>
+ <RMSE>  0.652215600     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.12883742E-02 </MEAN_OBS>
+ <STDV_OBS>  0.166213259     </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   8.64040330E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.148764923     </BIAS>
+ <RMSE>  0.434793204     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145965993     </BIAS>
+ <RMSE>  0.466730952     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.148672268     </BIAS>
+ <RMSE>  0.458570898     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.21268269E-02 </MEAN_OBS>
+ <STDV_OBS>  0.167818800     </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   7.77392611E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.122210406     </BIAS>
+ <RMSE>  0.714407027     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125068516     </BIAS>
+ <RMSE>  0.690411687     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.124773055     </BIAS>
+ <RMSE>  0.695300221     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.60162633E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146917999     </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>REF</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   7.46334493E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.107573554     </BIAS>
+ <RMSE>  0.715184093     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>polar</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104871966     </BIAS>
+ <RMSE>  0.696940184     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.105312869     </BIAS>
+ <RMSE>  0.698274374     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.27403077E-02 </MEAN_OBS>
+ <STDV_OBS>  0.168679580     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>REF</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   6.94514811E-02 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.134237766     </BIAS>
+ <RMSE>  0.727101564     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>polar</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135416850     </BIAS>
+ <RMSE>  0.723437965     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.133930743     </BIAS>
+ <RMSE>  0.728941858     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.399999440     </MEAN_OBS>
+ <STDV_OBS>  0.446022362     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>REF</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>  0.341012359     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>  0.257786721     </BIAS>
+ <RMSE>  0.824208260     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>polar</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.247701615     </BIAS>
+ <RMSE>  0.835442364     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>  0.251348168     </BIAS>
+ <RMSE>  0.831878543     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.37604484E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>REF</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   8.35153367E-03 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   1.34228310E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>polar</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35026509E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   1.35032199E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.80640691E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   7.69915641E-06 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   1.70309686E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.23671736E-04 </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   2.04340089E-04 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   2.60093482E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.70983587E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   3.99441516E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.28164317E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.59827432E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   7.61083083E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.09504639E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   2.15115360E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.82096007E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   2.63898528E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   3.64977786E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.32820263E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   2.65962681E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   4.53866141E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.04941391E-04 </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.40698161E-04 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   8.97667487E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44838617E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   9.89396867E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.84418815E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   2.39787423E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   2.96446033E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43954048E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   4.56714442E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.52745995E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.37835423E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   2.68687927E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.87335151E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   2.38291213E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.08528322E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   3.16080295E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   2.24461437E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.09353670E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   3.85164240E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.72482646E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>REF</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.24160888E-05 </MEAN>
+ <STDV>   1.62437788E+33 </STDV>
+ <BIAS>   3.51723720E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.74807639E+33 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>polar</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.56166529E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>polar+mpef</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>  -1.61431979E+22 </MEAN>
+ <STDV>  -1.61428556E+22 </STDV>
+ <BIAS>   3.51180024E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.61432339E+22 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
